@@ -1,0 +1,11 @@
+{
+  "name": "isazajuancarlos",
+  "owner": { "name": "Juan Carlos Isaza" },
+  "plugins": [
+    {
+      "name": "config-sync",
+      "source": "./",
+      "description": "Respalda/restaura la config de Claude Code en un repo GitHub privado (allowlist + escaneo de secretos)."
+    }
+  ]
+}

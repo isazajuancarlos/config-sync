@@ -1,0 +1,6 @@
+{
+  "name": "config-sync",
+  "version": "0.1.0",
+  "description": "Respalda y restaura la configuración de Claude Code en un repo GitHub PRIVADO del usuario, con allowlist y escaneo de secretos.",
+  "author": { "name": "Juan Carlos Isaza" }
+}
